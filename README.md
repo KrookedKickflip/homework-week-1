@@ -27,4 +27,3 @@ THEN I find a concise, descriptive title
 - studied the changes being made with css
 - practiced targeting certain elements
 - need to improve on readme layout
-- 
